@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VicThor13
 - 👀 I’m interested in a lot of things, literally
 - 🌱 I’m currently learning code and server admin
-- 📫 How to reach me : brement.victor@gmail.com.com or
+- 📫 How to reach me : brement.victor@gmail.com
 
 <!---
 VicThor13/VicThor13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
