@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VicThor13
 - 👀 I’m interested in a lot of things, literally
-- 🌱 I’m currently learning code and server admin
+- 🌱 I’m currently learning Cybersecurity
 - 📫 How to reach me : brement.victor@gmail.com
 
 <!---
